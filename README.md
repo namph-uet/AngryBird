@@ -1,6 +1,6 @@
 # AngryBird
 
-This is my firs game what i created. I want to make game to improve my logic sikll and program skill.
+This is my first game what I created. I want to make game to improve my logic sikll and program skill.
 Another, i want to develop it and sale of theme. 
 
 ## Demo:
