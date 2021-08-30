@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\script\Bird.cs" />
     <Compile Include="Assets\script\Monster.cs" />
+    <Compile Include="Assets\script\LevelController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
